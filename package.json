@@ -5,7 +5,7 @@
   "homepage": "https://cldblz.github.io/js-10-2025/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /js-10-2025/"
   },
   "repository": {
     "type": "git",
