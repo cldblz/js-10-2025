@@ -6,7 +6,7 @@ import {
   showInfo,
   hideInfo,
   showError,
-  hideError,
+  hideError
 } from './index';
 
 const headers = new Headers({
